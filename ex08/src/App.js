@@ -1,22 +1,22 @@
 // src/App.js
-import React, { Component } from "react";
-import Table from "./Table"; // Add this line inside the src/App.js file
+import React, { Component } from 'react';
+import Table from './Table'; // Add this line inside the src/App.js file
 
 class App extends Component {
   render() {
     const characters = [
       {
         firstName: "Lary",
-        lastName: "Page"
+        lastName: "Page",
       },
       {
         firstName: "Ada",
-        lastName: "Lovelace"
+        lastName: "Lovelace",
       },
       {
         firstName: "Alan",
-        lastName: "Turing"
-      }
+        lastName: "Turing",
+      },
     ];
 
     return (
