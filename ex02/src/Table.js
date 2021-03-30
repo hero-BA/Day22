@@ -1,6 +1,6 @@
 // src/Table.js
 
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 class Table extends Component {
   render() {
